@@ -1,10 +1,13 @@
 #Proje Adı 
+
 Bağlı Liste Yapısıyla Kelime Sayma
 
 #Proje Dili:
+
 C
 
-#Geliştirme Ortamı: 
+#Geliştirme Ortamı:
+
 CodeBlocks
 
 Grup Üyeleri: Şafak Mert Turan ve Tahir Can Yıldız
